@@ -60,6 +60,15 @@ a:focus {
     border-color: #EF233C;
 }
 
+.modal_e4 {
+    max-width: 800px;
+}
+
+.container-fluid-e4 {
+    max-width: 90vw;
+    margin: auto;
+}
+
 #loader {
     position: fixed;
     top: 0;
@@ -1457,6 +1466,9 @@ a:focus {
     margin: 0;
 }
 
+.service .container-fluid {
+    max-width: 100%;
+}
 
 /*******************************/
 /********* Footer CSS **********/

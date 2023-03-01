@@ -165,6 +165,15 @@ a:focus {
     
 }
 
+.align_center {
+    text-align: center;
+}
+
+.e4_table_icon_box {
+text-align: center;
+}
+
+
 .navbar .navbar-brand img {
     max-width: 100%;
     max-height: 40px;
